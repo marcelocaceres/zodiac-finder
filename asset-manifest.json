@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/zodiac-finder/static/css/main.9c5ee5c0.css",
+    "main.js": "/zodiac-finder/static/js/main.0ec5bb79.js",
+    "static/js/453.5c5271e6.chunk.js": "/zodiac-finder/static/js/453.5c5271e6.chunk.js",
+    "index.html": "/zodiac-finder/index.html",
+    "main.9c5ee5c0.css.map": "/zodiac-finder/static/css/main.9c5ee5c0.css.map",
+    "main.0ec5bb79.js.map": "/zodiac-finder/static/js/main.0ec5bb79.js.map",
+    "453.5c5271e6.chunk.js.map": "/zodiac-finder/static/js/453.5c5271e6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c5ee5c0.css",
+    "static/js/main.0ec5bb79.js"
+  ]
+}
